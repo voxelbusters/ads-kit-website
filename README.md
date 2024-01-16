@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
 1. **Fork the template repository and clone new forked repository:**
 
     ```
-    Template Repository : https://github.com/voxelbusters/product-website-template
+    Template Repository : https://github.com/voxelbusters/ads-kit-website
     ```
     
 2. **Install dependencies:**
@@ -17,8 +17,6 @@ To get started with this project, follow these steps:
     ```
 
 ## Usage
-
-After installing the dependencies, just update the `docusaurus.config.js` and `config.json` file after that just update `docs` folder as per your requirement:
 
 For Starting the Application after above alteration use the below command
 ```bash
