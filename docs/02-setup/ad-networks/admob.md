@@ -8,7 +8,7 @@ This guide instructs you on how to create ad units for iOS and Android on AdMob 
 2. Click on the "Sign Up" button to create a new account.
 3. Sign in using your Google account or create a new one if you don't have one already.
 
-> If you see the website fails to load, make sure you <mark>disable</mark> your "Awesome <mark>Ad Blocker</mark> ;)"
+> If you see the website fails to load, make sure you <mark>disable</mark> your "<mark>Awesome Ad Blocker</mark> ;)"
 
 ## Step 2: Set Up Your Apps
 

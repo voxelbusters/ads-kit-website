@@ -1,4 +1,3 @@
-
 ## Handling Error Codes
 
 When integrating ads into your Unity application, it's important to be able to understand and handle errors that may occur during the ad management lifecycle. The Ads Kit plugin provides a structured set of error codes that you'll encounter while using the plugin. Here's what each error code means and how you can handle them in your Unity project.

@@ -9,7 +9,7 @@ const config = {
   url: 'https://adskit.voxelbusters.com/', //enter main url of site 
   baseUrl: '/',
 
-  organizationName: 'ORGANISATION NAME', 
+  organizationName: 'voxelbusters',
   projectName: 'ads-kit-website', //enter github repo name
 
   onBrokenLinks: 'throw',
@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Organisation Name`,
+        copyright: `Copyright © ${new Date().getFullYear()} Voxel Busters Interactive LLP.`,
       },
       prism: {
         theme: prismThemes.github,
