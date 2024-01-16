@@ -1,4 +1,4 @@
-import config from '../../../../config.json';
+import config from '../../../config.json';
 import '../template/config.css'; 
 
 const Config = () => {

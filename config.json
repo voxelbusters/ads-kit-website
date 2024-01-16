@@ -1,10 +1,10 @@
 {
-    "productName": "Enter Product Name",
-    "themeColor": "Enter '--ifm-color-primary' from custom.css as themeColor ",  
+    "productName": "Ads Kit Documentation Site",
+    "themeColor": "#068B84",  
     "productLinks": {
-      "support": "Enter Support Page Link",
-      "productPage": "Enter Product Page Link",
-      "documentation":"Enter Documentation Page Link"
+      "support": "https://discord.gg/mp7fsmmC9n",
+      "productPage": "https://assetstore.unity.com/publishers/11527",
+      "documentation":"https://adskit.voxelbusters.com/"
     }
   }
   

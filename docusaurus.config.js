@@ -2,15 +2,15 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Title',
-  tagline: 'Tagline 🚀',
-  favicon: '', //enter image path [add an image in static/img folder and write its path here for example : img/SmallIcon.png]
+  title: 'Ads Kit',
+  tagline: 'Your All-in-One Advertising Solution! 🚀',
+  favicon: 'img/icon.png', //enter image path [add an image in static/img folder and write its path here for example : img/icon.png]
 
-  url: '', //enter main url of site eg:https://adskit.voxelbusters.com/
+  url: 'https://adskit.voxelbusters.com/', //enter main url of site 
   baseUrl: '/',
 
   organizationName: 'ORGANISATION NAME', 
-  projectName: '', //enter github repo name
+  projectName: 'ads-kit-website', //enter github repo name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,12 +29,12 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
           editUrl:
-            '', //enter edit url eg:https://github.com/voxelbusters/ads-kit-website/tree/main
+            'https://github.com/voxelbusters/ads-kit-website/tree/main', //enter edit url eg:
         },
         blog: {
           showReadingTime: true,
           editUrl:
-          '', //enter edit url eg:https://github.com/voxelbusters/ads-kit-website/tree/main
+          'https://github.com/voxelbusters/ads-kit-website/tree/main', //enter edit url eg:
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -62,10 +62,10 @@ const config = {
     
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Tile',
+        title: 'Ads Kit',
         logo: {
           alt: 'Site logo',
-          src: '',  //enter image path [add an image in static/img folder and write its path here for example : img/SmallIcon.png]
+          src: 'img/icon.png',  //enter image path [add an image in static/img folder and write its path here for example : img/SmallIcon.png]
         },
         items: [
           {
@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'Tutorials',
-                to: '', //enter the main url eg:https://adskit.voxelbusters.com/
+                to: 'https://adskit.voxelbusters.com/', //enter the main url eg:
               },
             ],
           },
@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'Support',
-                href: '', //enter the support link page
+                href: 'https://discord.gg/mp7fsmmC9n', //enter the support link page
               },
             ],
           },
@@ -106,12 +106,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Organisation Name',
-                to: 'https://www.example.com',
+                label: 'Voxel Busters',
+                to: 'https://www.voxelbusters.com',
               },
               {
                 label: 'GitHub',
-                href: '', //enter the github repo link
+                href: 'https://github.com/voxelbusters/ads-kit-website', //enter the github repo link
               },
             ],
           },
