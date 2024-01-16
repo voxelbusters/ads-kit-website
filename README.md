@@ -1,4 +1,4 @@
-# Product Website Template
+# Ads Kit
 
 ## Installation
 
