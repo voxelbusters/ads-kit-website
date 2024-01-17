@@ -1,5 +1,3 @@
-
-
 # Consent Requirements
 
 For mobile game/app developers, user consent has become an essential aspect of creating and maintaining user trust, as well as complying with various legal frameworks designed to protect user privacy. Here are the details with respect to mobile game developers:

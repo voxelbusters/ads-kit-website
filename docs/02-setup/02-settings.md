@@ -1,5 +1,3 @@
-
-
 # Ads Kit Settings
 
 The Ads Kit settings file, known as AdsKitSettings, is a scriptable object asset where the plugin's settings are stored. It serves as a central location for configuring various aspects of the Ads Kit plugin, including ad placements, ad network preferences, test device IDs, and other essential settings.

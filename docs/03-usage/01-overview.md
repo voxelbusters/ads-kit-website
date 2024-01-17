@@ -1,9 +1,8 @@
-
-
-
 # Implementation Oveview
 
 This overview guide will help you implement and utilize the Ads Kit functionality within your Unity project.
+
+> For a quick no-code implementation, check the no code solution section.
 
 1. Import Namespaces - Required namespaces to use plugin's specific classes.
 

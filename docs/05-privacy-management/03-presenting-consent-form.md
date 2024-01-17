@@ -1,5 +1,3 @@
-
-
 # Presenting Consent Form
 
 Presenting a consent form using the Ads Kit plugin involves offering users the opportunity to provide their consent for personalized ads and other privacy-related attributes before initializing ad networks. Here's how to approach it:

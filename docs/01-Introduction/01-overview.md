@@ -11,7 +11,7 @@ Tired of juggling multiple ads plugins for iOS and Android separately? Say hello
 
 ##### 🌐 Awesome Ad Networks
 
-We support AdMob, AdColony, AppLovin, Unity Ads, and Vungle – the dream team of ad networks. You pick what works for you!
+We support AdMob, AppLovin, Unity Ads, and Vungle – the dream team of ad networks. You pick what works for you!
 
 ##### 🎨 Ad Magic, Any Format
 

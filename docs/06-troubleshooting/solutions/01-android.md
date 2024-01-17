@@ -1,6 +1,6 @@
 # Android
 
-> Gradle Build Errors & Solutions
+> Solutions for Gradle Build errors & Runtime errors
 
 This sections provides list of gradle build errors you may encounter while making builds for Android.
 
@@ -20,4 +20,4 @@ To resolve this,
 
 6. Set the path to the extracted gradle in #2
 
-
+---

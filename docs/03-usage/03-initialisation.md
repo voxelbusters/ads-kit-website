@@ -1,4 +1,3 @@
-
 # Initialisation
 
 ### Introduction
@@ -14,34 +13,28 @@ There are two ways to obtain a consent form provider:
 - **Default Provider**: The plugin comes with a default consent form provider implementation if AdMob Ad Network is enabled. 
 
 - **Custom Provider**: If you don't have AdMob Ad Network enabled, you need to create a class that implements the `IConsentFormProvider` interface, providing the necessary consent logic and UI based on your requirements.
-  
-  
-  
+
   AdServices offers a method to fetch IConsentFormProvider instance with GetConsentFormProvider. Either you can use this method or directly pass the custom consent provider implementation.
-  
-  ```csharp
-  AdServices.GetConsentFormProvider()
-  ```
-  
-  
-  
+
+```csharp
+AdServices.GetConsentFormProvider()
+```
+
   Example:
-  
-  ```csharp
-  private IConsentFormProvider GetConsentFormProvider()
-  {
-   IConsentFormProvider availableProvider = AdServices.GetConsentFormProvider();
-   if(availableProvider == null)
-   {
-     throw new Exception("No IConsentFormProvider implementation found. Implement IConsentFormProvider interface or enable AdMob for a default consent form provider.");
-   }
-   return availableProvider;
-  } 
-  ```
+
+```csharp
+private IConsentFormProvider GetConsentFormProvider()
+{
+ IConsentFormProvider availableProvider = AdServices.GetConsentFormProvider();
+ if(availableProvider == null)
+ {
+   throw new Exception("No IConsentFormProvider implementation found. Implement IConsentFormProvider interface or enable AdMob for a default consent form provider.");
+ }
+ return availableProvider;
+} 
+```
 
 > If you are having your own custom consent form provider by implementing IConsentFormProvider interface, AdServices **automatically detects** and returns it when you call **GetConsentFormProvider** method of **AdServices**
-
-
 
 ### Initialise
 
