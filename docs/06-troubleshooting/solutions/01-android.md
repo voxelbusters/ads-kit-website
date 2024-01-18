@@ -4,7 +4,9 @@
 
 This sections provides list of gradle build errors you may encounter while making builds for Android.
 
-## Minimum supported Gradle version is 6.7.1. Current version is 6.1.1.
+
+
+##### Minimum supported Gradle version is 6.7.1. Current version is 6.1.1.
 
 To resolve this,
 
@@ -21,3 +23,13 @@ To resolve this,
 6. Set the path to the extracted gradle in #2
 
 ---
+
+##### Failed to get ad id
+
+You need to have your AdMob account verified to avoid this error.
+
+If you would like to try with a test app id for Ad Mob network, you can try below
+
+```
+ca-app-pub-3940256099942544~3347511713
+```

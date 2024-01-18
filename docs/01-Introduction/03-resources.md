@@ -6,6 +6,8 @@
 
 [Product Page](https://u3d.as/37du)
 
-[API Reference] - Pending
 
-<!-- [Wishlist]("https://feedback.screenrecorderkit.voxelbusters.com/") --> 
+
+> Demo Example scene is available in Assets/Plugins/VoxelBusters/AdsKit/Examples folder.
+
+<!-- [Wishlist]("https://feedback.screenrecorderkit.voxelbusters.com/") -->
