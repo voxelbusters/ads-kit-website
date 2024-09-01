@@ -51,13 +51,13 @@ public class AdsManager : MonoBehaviour, IAdLifecycleEventListener
     }
 
     // Get ad placement Id from Ad Placements section of General section in AdsKitSettings.
-    private void ShowAd(string placementId)
+    public void ShowAd(string placementId)
     {
         AdsManager.ShowAd(placementId);
     }
 
     // Get ad placement Id from Ad Placements section of General section in AdsKitSettings.
-    private void HideAd(string placementId)
+    public void HideAd(string placementId)
     {
         // HideAd only applicable to Banner Ad Type alone.
         AdsManager.HideAd(placementId, destroy: false);
